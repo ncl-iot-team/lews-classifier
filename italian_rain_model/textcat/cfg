@@ -1,0 +1,9 @@
+{
+  "exclusive_classes":true,
+  "architecture":"simple_cnn",
+  "labels":[
+    "POSITIVE",
+    "NEGATIVE"
+  ],
+  "pretrained_vectors":null
+}
